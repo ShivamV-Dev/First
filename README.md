@@ -1,2 +1,2 @@
-# First
-It's my first repository.
+# Calculator
+Basic calculator made using Javascript HTML and CSS.
